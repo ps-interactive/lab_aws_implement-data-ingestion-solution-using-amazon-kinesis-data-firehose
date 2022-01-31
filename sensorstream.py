@@ -1,7 +1,6 @@
 import json
 import datetime
 import random
-import testdata
 import boto3
 from botocore.config import Config
 
